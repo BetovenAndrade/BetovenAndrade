@@ -17,7 +17,7 @@ A maioria dos meus repositórios são privados, mas pretendo contribuir mais com
 
 - 👨‍💻 All of my projects are available at [https://github.com/Montenegro-Labs](https://github.com/Montenegro-Labs)
 
-- 📝 I regularly write examples [on GitHub Gist](on GitHub Gist)
+- 📝 I regularly write examples on GitHub Gist: **https://gist.github.com/betovenandrade** 
 
 - 💬 Ask me about **Java, Python, Regex, Selenium, Flask,...**
 
